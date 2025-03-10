@@ -1,0 +1,11 @@
+Assignment material for Section B
+
+Virtual Machine - WIN10LAB
+
+Download link: https://cloudmails-my.sharepoint.com/:u:/g/personal/zaireeda_apu_edu_my/ESJxlPrhPMhDtqqAVxPHkfgBBlgILFYjzxT-QTKkUrRpFA?e=jjAXUw
+
+File Name: WIN10LAB.zip
+Password for EXTRACTING this virtual machine: MVN@APU_FDR
+
+Machine Name: Windows Server 2010.vm
+Password:password
